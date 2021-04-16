@@ -229,3 +229,6 @@ Better Questing.ipr
 Better Questing.iws
 libs/
 /run/
+*.iws
+*.iml
+*.ipr
